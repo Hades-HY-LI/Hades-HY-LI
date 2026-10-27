@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Toy Story Dance](Toy%20Story%20Dance%20GIF.gif)
+
 <!--
 **Hades-HY-LI/Hades-HY-LI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
